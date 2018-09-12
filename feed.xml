@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Oklatarabia</title>
+    <link href="https://oklatarabia.github.io/feed.xml" rel="self" />
+    <link href="https://oklatarabia.github.io" />
+    <updated>2018-09-12T09:20:29+01:00</updated>
+    <author>
+        <name>Oklat Arabia</name>
+    </author>
+    <id>https://oklatarabia.github.io</id>
+
+    <entry>
+        <title>السمك المشوي بالزيت والليمون</title>
+        <author>
+            <name>Oklat Arabia</name>
+        </author>
+        <link href="https://oklatarabia.github.io/lsmk-lmshwy-blzyt-wllymwn/"/>
+        <id>https://oklatarabia.github.io/lsmk-lmshwy-blzyt-wllymwn/</id>
+            <category term="مقبلات"/>
+            <category term="معجنات"/>
+            <category term="صحة"/>
+            <category term="حلويات"/>
+
+        <updated>2018-07-30T11:57:06+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://oklatarabia.github.io/media/posts/1/lsmk-lmshwy-blzyt-wllymwn.jpg" alt="" />
+                <p class="msg--highlight msg  align-right">السمك المشوي بالزيت والليمون من الوصفات الشهية وسهلة التحضير في الوقت نفسه حيث يمكن تحضيرها على العشاء أو كوجبة غداء سريعة ولا تحتاج جهداً عند العودة من العمل متعبين حيث تكون جاهزة خلال ثلث ساعة</p>
+<p class="msg msg--success align-right">مدة التحضير: 15 دقائق<br>مدة الطبخ: 5 دقائق<br>الوقت الاجمالي: 20 دقائق</p>
+<p class="align-right"><span style="text-decoration: underline;">المقادير</span><br>عصير 1 ليمونة   <br>½ كوب زيت زيتون   <br>1 رشة ملح   <br>4 أوراق نعنع كبيرة مقطعة ناعمة   <br>1 فص ثوم مهروس   <br>450 غرام فيليه سمك   </p>
+<p class="align-right"><span style="text-decoration: underline;"><strong>طريقة التحضير</strong></span><br>نخلط في وعاء صغير كلاً من عصير الليمون وزيت الزيتون معاً حتى تمتزج المكونات تماماً لمدة دقيقتين ثم نضيف رشة ملح والثوم المهروس والنعنع المفروم ونمزج المكونات جيداً ثم نضعها جانباً<br>نضع فيليه السمك في صينية ونتبله من الطرفين بالملح والفلفل الأسود ثم نضعه على المشواة لمدة دقيقتين لكل طرف أو حتى ينضج تماماً<br>نضع السمك في طبق التقديم ونرشه بالزيت ونزين بأوراق النعنع وشرائح الليمون وبذلك يصبح طبق السمك المشوي بالزيت والليمون جاهزاً للتقديم</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

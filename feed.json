@@ -1,0 +1,32 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Oklatarabia",
+    "description": "",
+    "home_page_url": "https://oklatarabia.github.io",
+    "feed_url": "https://oklatarabia.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://oklatarabia.github.io/media/website/oklatarabia-logo.png",
+    "author": {
+        "name": "Oklat Arabia"
+    },
+    "items": [
+        {
+            "id": "https://oklatarabia.github.io/lsmk-lmshwy-blzyt-wllymwn/",
+            "url": "https://oklatarabia.github.io/lsmk-lmshwy-blzyt-wllymwn/",
+            "title": "السمك المشوي بالزيت والليمون",
+            "content_html": "<p class=\"msg--highlight msg  align-right\">السمك المشوي بالزيت والليمون من الوصفات الشهية وسهلة التحضير في الوقت نفسه حيث يمكن تحضيرها على العشاء أو كوجبة غداء سريعة ولا تحتاج جهداً عند العودة من العمل متعبين حيث تكون جاهزة خلال ثلث ساعة</p>\n<p class=\"msg msg--success align-right\">مدة التحضير: 15 دقائق<br>مدة الطبخ: 5 دقائق<br>الوقت الاجمالي: 20 دقائق</p>\n<p class=\"align-right\"><span style=\"text-decoration: underline;\">المقادير</span><br>عصير 1 ليمونة   <br>½ كوب زيت زيتون   <br>1 رشة ملح   <br>4 أوراق نعنع كبيرة مقطعة ناعمة   <br>1 فص ثوم مهروس   <br>450 غرام فيليه سمك   </p>\n<p class=\"align-right\"><span style=\"text-decoration: underline;\"><strong>طريقة التحضير</strong></span><br>نخلط في وعاء صغير كلاً من عصير الليمون وزيت الزيتون معاً حتى تمتزج المكونات تماماً لمدة دقيقتين ثم نضيف رشة ملح والثوم المهروس والنعنع المفروم ونمزج المكونات جيداً ثم نضعها جانباً<br>نضع فيليه السمك في صينية ونتبله من الطرفين بالملح والفلفل الأسود ثم نضعه على المشواة لمدة دقيقتين لكل طرف أو حتى ينضج تماماً<br>نضع السمك في طبق التقديم ونرشه بالزيت ونزين بأوراق النعنع وشرائح الليمون وبذلك يصبح طبق السمك المشوي بالزيت والليمون جاهزاً للتقديم</p>",
+            "image": "https://oklatarabia.github.io/media/posts/1/lsmk-lmshwy-blzyt-wllymwn.jpg",
+            "author": {
+                "name": "Oklat Arabia"
+            },
+            "tags": [
+                   "مقبلات",
+                   "معجنات",
+                   "صحة",
+                   "حلويات"
+            ],
+            "date_published": "2018-07-30T11:46:38+01:00",
+            "date_modified": "2018-07-30T11:57:06+01:00"
+        }
+    ]
+}
